@@ -17,6 +17,14 @@
       "name": "福利4号线路"
     },
     {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/redscarful/xpg/main/tbs.json",
+      "name": "5号线路"
+    },
+    {
+      "url": "https://ghproxy.net/raw.githubusercontent.com/chen-tech-learner/clh6/main/cdtianya.json",
+      "name": "福利6号线路"
+    },
+    {
       "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/main/OS.json",
       "name": "采集线路"
     }
