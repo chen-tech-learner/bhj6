@@ -1,20 +1,20 @@
 ﻿{
   "urls": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/cd2@main/cddb.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddb.json",
       "name": "自建1号线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw@main/hjyc.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chw/main/hjyc.json",
       "name": "自建2号线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw1@main/jhyc26.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chw1/main/jhyc26.json",
       "name": "自建3号线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw1@main/tvbox.json",
-      "name": "自建4号线路"
+      "url": "http://47.96.82.41:5188/rose/18/xgg.json",
+      "name": "福利4号线路"
     },
     {
       "url": "https://d.kstore.dev/download/17626/yueer%281%29.json",
