@@ -1,0 +1,28 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/cd2@main/cddb.json",
+      "name": "自建1号线路"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw@main/hjyc.json",
+      "name": "自建2号线路"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw1@main/jhyc26.json",
+      "name": "自建3号线路"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/chen-tech-learner/chw1@main/tvbox.json",
+      "name": "自建4号线路"
+    },
+    {
+      "url": "https://d.kstore.dev/download/17626/yueer%281%29.json",
+      "name": "月儿线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/main/OS.json",
+      "name": "采集线路"
+    }
+  ]
+}
