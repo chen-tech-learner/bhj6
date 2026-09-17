@@ -2,23 +2,23 @@
     "sites": [
         {
             "uri": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb2/main/cddy7.json",
-            "name": "自建01"
+            "name": "chnb2"
          },
         {
             "uri": "https://gh-proxy.org//raw.githubusercontent.com/chen-tech-learner/chnb/main/cfdc2.json",
-            "name": "自建02"
+            "name": "chnb"
         },
         {
             "uri": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb1/main/cddc3.json",
-            "name": "自建03"
+            "name": "chnb1"
         },
         {
             "uri": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/bhj/main/hjyc1.json",
-            "name": "自建04"
+            "name": "bhj"
         },
         {
             "uri": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddy6.json",
-            "name": "自建05"
+            "name": "cd2"
         }
     ]
 }
