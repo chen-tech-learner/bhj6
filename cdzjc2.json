@@ -1,0 +1,29 @@
+﻿{
+    "sites": [
+        {
+            "key": "zjc01",
+            "name": "自建01",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb2/main/cddy7.json"
+        },
+        {
+            "key": "zjc02",
+            "name": "自建02",
+            "api": "https://gh-proxy.org//raw.githubusercontent.com/chen-tech-learner/chnb/main/cfdc2.json"
+        },
+        {
+            "key": "zjc03",
+            "name": "自建03",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb1/main/cddc3.json"
+        },
+        {
+            "key": "zjc04",
+            "name": "自建04",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/bhj/main/hjyc1.json"
+        },
+        {
+            "key": "zjc05",
+            "name": "自建05",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddy6.json"
+        }
+    ]
+}
