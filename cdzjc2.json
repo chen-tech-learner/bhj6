@@ -1,11 +1,11 @@
 {
-  "sites": [
+  "urls": [
     {
       "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb2/main/cddy7.json",
       "name": "chnb2"
     },
     {
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb/main/cfdc2.json",
+      "url": "https://gh-proxy.org//raw.githubusercontent.com/chen-tech-learner/chnb/main/cfdc2.json",
       "name": "chnb"
     },
     {
