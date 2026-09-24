@@ -1,23 +1,23 @@
 {
-  "urls": [
+  "sites": [
     {
-      "uri": "https://gh-proxy.org/https://raw.githubusercontent.com/chen-tech-learner/bhj1/main/cdpfb.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/bhj6/main/cdpfb.json",
       "name": "cdpfb"
     },
     {
-      "uri": "https://gh-proxy.org/https://raw.githubusercontent.com/chen-tech-learner/chnb10/main/cici.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/chnb10/main/cici.json",
       "name": "cici"
     },
     {
-      "uri": "https://gh-proxy.org/https://raw.githubusercontent.com/chen-tech-learner/cd3/main/cddy.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd3/main/cddy.json",
       "name": "cddy"
     },
     {
-      "uri": "https://gh-proxy.org/https://raw.githubusercontent.com/chen-tech-learner/cd2/main/cddb.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddb.json",
       "name": "cddb"
     },
     {
-      "uri": "https://gh-proxy.org/https://raw.githubusercontent.com/chen-tech-learner/cd3/main/dfgre.json",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd3/main/dfgre.json",
       "name": "dfgre"
     }
   ]
