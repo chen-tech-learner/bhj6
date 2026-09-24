@@ -1,1 +1,24 @@
-{"urls":[{"url":"https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddb.json","name":"1"},{"url":"http://47.96.82.41:5188/rose/18/xgg.json","name":"2"},{"url":"https://gh-proxy.org/raw.githubusercontent.com/redscarful/xpg/main/tbs.json","name":"3"},{"url":"https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh6/main/cdtianya.json","name":"4"},{"url":"https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/main/OS.json","name":"5"}]}
+{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/cd2/main/cddb.json",
+      "name": "1"
+    },
+    {
+      "url": "http://47.96.82.41:5188/rose/18/xgg.json",
+      "name": "2"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/redscarful/xpg/main/tbs.json",
+      "name": "3"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh6/main/cdtianya.json",
+      "name": "4"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/main/OS.json",
+      "name": "5"
+    }
+  ]
+}
